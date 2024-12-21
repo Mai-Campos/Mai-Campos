@@ -22,9 +22,9 @@ Hola, mi nombre es Maikol Campos, tengo 20 años y soy estudiante de Ingenieria 
 
 
   ## 📧 Contacto:
-   Si tienes alguna pregunta o deseeas colaborar no dudes en contactarme:
-   - __Gmail__: camposmaikol1@gmail.com
-   - __Teléfono__: +53 55436297
+   Si tienes alguna pregunta, deseeas solicitar algun servicio o te interesa colaborar no dudes en contactarme:
+   - __📨 Gmail__: camposmaikol1@gmail.com
+   - __📞 Teléfono__: +53 55436297
    
       
     
