@@ -5,8 +5,11 @@ Hola, mi nombre es Maikol Campos, tengo 20 años y soy estudiante de Ingenieria 
 ## 🔨 Habilidades:
 
 * Conocimiento avanzado en Java para el desarrollo de aplicaciones.
+* Spring Framework.
+* Resolución de problemas.
+* Estructuras de datos.
 * Experiencia en desarrollo web con HTML,CSS y Javascript.
-* Conocimientos generales en Bases de Datos, lenguaje SQL y SGBD como MySQL.
+* Conocimientos generales en Bases de Datos, lenguaje SQL y SGBD como MySQL y PostgreSql.
 * Dominio del idioma ingles.
 * Capacidad de trabajar en equipo.
 * Conocimientos de herramientas y tecnologías como git y github.
