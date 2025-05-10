@@ -1,6 +1,6 @@
 # Maikol Campos Rodriguez 👨🏻‍💻
 
-Hola, mi nombre es Maikol Campos, tengo 20 años y soy estudiante de Ingenieria Informática en la Universidad de Matanzas. Amante del código y la programación, he participado en varios proyectos personales y escolares.
+Hola, mi nombre es Maikol Campos, tengo 21 años y soy estudiante de Ingenieria Informática en la Universidad de Matanzas. Amante del código y la programación, he participado en varios proyectos personales y escolares. 
 
 ## 🔨 Habilidades:
 
@@ -42,6 +42,10 @@ Hola, mi nombre es Maikol Campos, tengo 20 años y soy estudiante de Ingenieria 
 
    * __Sitio web Agencia de taxis en Cuba (Proyecto personal en desarrollo):__<br>
    https://github.com/Mai-Campos/Taxi-service-booking-company-website.git
+
+  * __CRUD basico para gestionar videojuegos (Proyecto personal):__<br>
+  https://github.com/Mai-Campos/CRUD-Videogames-SpringBoot-React.git
+  
 
 
   ## 📧 Contacto:
