@@ -13,7 +13,7 @@ Hola, mi nombre es Maikol Campos, tengo 21 años y soy estudiante de Ingenieria 
 * Dominio del idioma ingles.
 * Capacidad de trabajar en equipo.
 * Conocimientos de herramientas y tecnologías como git y github.
-* Rápido aprendizaje.
+* Rápido aprendizaje. 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
