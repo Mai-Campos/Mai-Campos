@@ -39,11 +39,7 @@ Hola, mi nombre es Maikol Campos, tengo 21 años y soy estudiante de Ingenieria 
    - __📨 Gmail__: camposmaikol1@gmail.com
    - __📞 Teléfono__: +53 55436297
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mai-Campos/Mai-Campos/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mai-Campos/Mai-Campos/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mai-Campos/Mai-Campos/output/pacman-contribution-graph.svg">
-</picture>
+
    
       
     
