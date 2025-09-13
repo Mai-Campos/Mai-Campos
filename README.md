@@ -76,10 +76,8 @@
   <a href="mailto:camposmaikol1@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="www.linkedin.com/in/maikol-campos-b0b53a2b6" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://t.me/@Yuni_dev" target="_blank">
+  
+  <a href="https://t.me/Yuni_dev" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </div>
