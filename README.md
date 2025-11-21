@@ -62,14 +62,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mai-Campos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 <br/>
-
-  ## 🔭 you can start from here ... 
-
-<a href="(https://github.com/Mai-Campos/Coffee-ecommerce.git)"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mai-Campos&repo=Coffee-ecommerce" width=400> </a> 
-<a href="(https://github.com/Mai-Campos/Hollow-Knight-API.git)"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mai-Campos&repo=Hollow-knight-API" width=400> </a> 
-
-
-  
   
  <h3>Contact</h3>
 <div>
