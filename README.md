@@ -36,9 +36,9 @@
 
 ### Backend  
 <div align="center">  
-<img width="300px" height="300px" src="https://skillicons.dev/icons?i=nodejs,ts,express,prisma" />
+<img width="300px" height="300px" src="https://skillicons.dev/icons?i=nodejs,ts,express,nestjs"/>
 <img width="300px" height="300px" src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql" />
-<img width="150px" height="150px" src="https://skillicons.dev/icons?i=sqlite,mongodb,sequelize" />
+<img width="300px" height="300px" src="https://skillicons.dev/icons?i=sqlite,mongodb,sequelize,prisma" />
 
 </div>
 
@@ -48,7 +48,7 @@
 
 ### Tools  
 <div align="center">  
-<img width="300px" height="300px" src="https://skillicons.dev/icons?i=git,github,postman,npm" />
+<img width="300px" height="300px" src="https://skillicons.dev/icons?i=git,github,postman,pnpm" />
 
 </div>
 
